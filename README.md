@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 My stack and tools: 
 JavaScript / HTML5 / CSS3 / Sass / GitHub / Visual / Studio / Code
-<image src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png', width = 5px, heigth = 5px>
+
