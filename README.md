@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 My stack and tools: 
-JavaScript / HTML5 / CSS3 / Sass / GitHub / Visual Studio Code
+JavaScript / HTML5 / CSS3 / Sass / GitHub / Visual Studio Code /
 React.js /
